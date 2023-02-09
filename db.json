@@ -1,0 +1,53 @@
+{
+    "filmes": [
+        {
+            "título": "Titanic", 
+            "ano":"1997", 
+            "id":8
+        }, 
+        {
+            "título": "Matrix", 
+            "ano":"1999", 
+            "id":9
+        }, 
+        {
+            "título": "Wall-e", 
+            "ano":"2008", 
+            "id":10
+        }
+    ],
+    "salas": [
+        {
+            "tamanho": "Max",
+            "período":"matutino",
+            "id": 11
+        },
+        {
+            "tamanho": "Média",
+            "período":"vespertino",
+            "id": 12
+        },
+        {
+            "tamanho": "Micro",
+            "período":"noturno",
+            "id": 13
+        }
+    ],
+    "clientes": [
+        {
+            "nome":"Tatiane",
+            "cpf":"12345678910",
+            "id":1
+        },
+        {
+            "nome":"Mateus",
+            "cpf":"12345678920",
+            "id":2
+        },
+        {
+            "nome":"Wesley",
+            "cpf":"12345678930",
+            "id":3
+        }
+    ]
+}
