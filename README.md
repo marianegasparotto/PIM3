@@ -16,8 +16,21 @@
 
 ## :woman_technologist:  Como executar:
 
-<p>A simulação de API foi desenvolvida através da biblioteca j-son server, necessário instalação em servidor local e acesso pelo endereço  http://localhost:3000.</p>
-<p> Para acesso as rotas você deve utilizar o url + /(rota) , como no exemplo a seguir:</p>
+<p>A simulação de API foi desenvolvida através da biblioteca j-son server, necessário instalação em servidor local e acesso pelo endereço  http://localhost:3000. Para isso, é necessário utilizar o seguintes comandos para executar: </p>
+
+<p>Instala o json-server:</p>
+
+| npx install -g json-server  | 
+| ------------- | 
+
+<p>Gera o servidor para acessar o URL:</p>
+
+| json-server --watch db.json  | 
+| ------------- | 
+ 
+
+
+<p> Para acesso as rotas e métodos você deve utilizar o url + /(rota) , como no exemplo a seguir:</p>
 
 
 | Resquest  | URL | Detalhes  | 
