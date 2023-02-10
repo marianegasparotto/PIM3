@@ -16,6 +16,10 @@
 
 ## :woman_technologist:  Como executar:
 
+<p>A simulação de API foi desenvolvida através da biblioteca j-son server, necessário instalação em servidor local e acesso pelo endereço  http://localhost:3000.</p>
+<p> Para acesso as rotas você deve utilizar o url + /(rota) , como no exemplo a seguir:</p>
+
+
 | Resquest  | URL | Detalhes  | 
 | ------------- | ------------- | ------------- | 
 | GET  | /filmes     | Busca todos os filmes  | 
@@ -23,6 +27,8 @@
 | POST | /filmes/ | Salva um filme  |
 | PUT  | /filmes/1 | Atualiza os dados de um filme  |
 | DELETE | /filmes/1  | Remove um filme  |
+
+Para auxiliar na execução, você pode utilizar a ferramenta **Insomnia** ou alguma de sua preferência.
 
 ## :computer: Tecnologias utilizadas:
 <div>
