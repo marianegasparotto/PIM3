@@ -1,53 +1,56 @@
 {
-    "filmes": [
-        {
-            "título": "Titanic", 
-            "ano":"1997", 
-            "id":8
-        }, 
-        {
-            "título": "Matrix", 
-            "ano":"1999", 
-            "id":9
-        }, 
-        {
-            "título": "Wall-e", 
-            "ano":"2008", 
-            "id":10
-        }
-    ],
-    "salas": [
-        {
-            "tamanho": "Max",
-            "período":"matutino",
-            "id": 11
-        },
-        {
-            "tamanho": "Média",
-            "período":"vespertino",
-            "id": 12
-        },
-        {
-            "tamanho": "Micro",
-            "período":"noturno",
-            "id": 13
-        }
-    ],
-    "clientes": [
-        {
-            "nome":"Tatiane",
-            "cpf":"12345678910",
-            "id":1
-        },
-        {
-            "nome":"Mateus",
-            "cpf":"12345678920",
-            "id":2
-        },
-        {
-            "nome":"Wesley",
-            "cpf":"12345678930",
-            "id":3
-        }
-    ]
+  "filmes": [
+    {
+      "título": "Titanic",
+      "ano": "1997",
+      "url": "https://br.web.img2.acsta.net/medias/nmedia/18/89/56/94/20055685.jpg",
+      "id": 8
+    },
+    {
+      "título": "Matrix",
+      "ano": "1999",
+      "url": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/08/82/20128877.JPG",
+      "id": 9
+    },
+    {
+      "título": "Wall-e",
+      "ano": "2008",
+      "url": "https://br.web.img2.acsta.net/medias/nmedia/18/91/31/05/20139182.jpg",
+      "id": 10
+    }
+  ],
+  "salas": [
+    {
+      "tamanho": "Max",
+      "período": "matutino",
+      "id": 11
+    },
+    {
+      "tamanho": "Média",
+      "período": "vespertino",
+      "id": 12
+    },
+    {
+      "tamanho": "Micro",
+      "período": "noturno",
+      "id": 13
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Tatiane",
+      "cpf": "12345678910",
+      "id": 1
+    },
+    {
+      "nome": "Mateus",
+      "cpf": "12345678920",
+      "id": 2
+    },
+    {
+      "nome": "Wesley",
+      "cpf": "12345678930",
+      "id": 3
+    }
+  ]
 }
